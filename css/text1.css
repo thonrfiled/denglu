@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+}
+.all{
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border: solid 1px gray;
+}
+
+.body{
+ height: 440px;
+ /*border: gray 1px solid; */
+ /*border-top:white 1px solid;*/
+
+}
+.header{
+    height: 60px;
+    font-size: 20px;
+    /*border-left: grey 1px solid;*/
+    /*border-right: grey 1px solid;*/
+   /* border-top: grey 1px solid;*/
+    background-color: rgb(240, 236, 236);
+}
+.text1{
+    line-height: 60px;
+    color: black;
+    display: block;
+    margin-left: 9px;
+}
+.body-top{
+    height: 250px;
+ /*   border: red 1px solid;*/
+    width: 400px;
+    margin: 0 auto;
+}
+
+.text2{
+   margin-top: 10px;
+   display: block;
+   color: black;
+}
+.text3{
+    margin-top: 5px;
+    height: 30px;
+    width: 395px;
+    display: block;
+}
+.text4{
+    margin-top: 9px;
+    float: left;
+    margin-bottom: 5px;
+}
+.a-one{
+    float: right;
+    margin-top:9px;
+    margin-bottom: 5px;
+    color: rgb(30, 156, 57);
+    text-decoration: none;
+}
+.text5{
+    display: block;
+    margin-top: 10px;
+    height: 30px;
+    width: 395px;
+}
+.a-two{
+    margin-top: 9px;
+    display: block;
+    color: rgb(30, 156, 57);
+    text-decoration: none;
+}
+.button-one{
+    display: block;
+    width: 100%;
+    margin-top:15px ;
+    height: 40px;
+    color: white;
+    background-color: mediumseagreen;
+    border: mediumseagreen 1px solid;
+}
+.text5{
+    font-size: 14px;
+    display: block;
+    color: grey;
+    
+}
+.body-bottom{
+    text-align: center;
+    width: 400px;
+    /*border: black 1px solid;*/
+    margin: 0 auto;
+    height: 190px;
+}
+li{
+    float: left;
+    list-style: none;
+    margin-left:22px ;
+    margin-top:10px ;
+}
+img{
+    width: 22px;
+    height: 22px;
+}
+.li1{
+    font-size: 22px;
+}
+
+.button-two{
+    width: 100%;
+    display: block;
+    height: 40px;
+    border: 1px solid gray ;
+    color:black ;
+    background-color:white;
+
+}
+.text6{
+    display: block;
+    margin-top: 17px;
+}
+.a-three{
+    color: mediumseagreen;
+}
